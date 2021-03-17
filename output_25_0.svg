@@ -284,7 +284,7 @@ z
      </g>
     </g>
     <g id="text_7">
-     <!-- timestep -->
+     <!-- block number -->
      <defs>
       <path d="M 25.78125 7.859375 
 L 27.046875 0.09375 
@@ -15057,7 +15057,7 @@ L 70.007031 203.883438
     </g>
     <g id="line2d_17"/>
     <g id="text_16">
-     <!-- basefee_multiplication -->
+     <!-- basefee_multiplicative -->
      <defs>
       <path d="M 14.703125 0 
 L 6.546875 0 
